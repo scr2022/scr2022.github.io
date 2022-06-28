@@ -1,4 +1,4 @@
-# SoCal Robotics 2020 Website Source Code
+# SoCal Robotics 2022 Website Source Code
 
 ## Instructions
 With ruby and bundle installed, run:
