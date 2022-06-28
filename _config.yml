@@ -7,7 +7,7 @@ baseurl: ''
 conference_title: "Southern California Robotics Symposium"
 conference_title_short: "SCR"
 year: "2020"
-infoline_text: "In light of recent events surrounding the COVID-19 outbreak, SCR2020 will be postponed until further notice. We will provide more information when we have new logistical details, and we thank you for your understanding and patience as we navigate this complex situation."
+# infoline_text: "In light of recent events surrounding the COVID-19 outbreak, SCR2020 will be postponed until further notice. We will provide more information when we have new logistical details, and we thank you for your understanding and patience as we navigate this complex situation."
 
 # Color settings
 color:
