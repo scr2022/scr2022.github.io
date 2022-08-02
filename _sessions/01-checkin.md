@@ -1,5 +1,6 @@
 ---
-time: 8:00AM
-name: checkin
-title: Check-in and Breakfast Sponsored by iRobot
+day: 1
+time: 12.30PM
+name: checkin_1
+title: Check-in
 ---

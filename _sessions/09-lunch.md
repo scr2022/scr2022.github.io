@@ -1,5 +1,6 @@
 ---
-time: 12.15PM
+day: 2
+time: 12.00PM
 name: lunch
 title: Lunch
 ---
