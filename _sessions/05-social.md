@@ -2,6 +2,6 @@
 day: 1
 time: 7:00PM
 name: social
-title: Mix 'em up Dinner*
+title: Dinner Mixer
 subtitle: Optional and at participant's expense
 ---
