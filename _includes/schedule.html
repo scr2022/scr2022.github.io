@@ -37,6 +37,10 @@
                         <th scope="row"><time>{{session.time}}</time></th>
                         <td>
                         <h5>{{session.title}}</h5>
+                        {% if session.subtitle != null %}
+                            <br> 
+                            <p>session.subtitle</p>
+                        {% endif %}
                         </td>
                       </tr>
                     {% else %}

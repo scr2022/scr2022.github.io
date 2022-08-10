@@ -1,6 +1,7 @@
 ---
 day: 1
-time: 8:00PM
+time: 7:00PM
 name: social
-title: Student Social Event
+title: Mix 'em up Dinner*
+subtitle: Optional and at participant's expense
 ---
