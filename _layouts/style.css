@@ -15,7 +15,7 @@
 
 .banner{
   max-width:100%;
-  height: auto;
+  height: 600px;
   margin: auto;
   overflow: auto;
   background-image: url({{site.background-image}});
