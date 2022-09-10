@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0406414"
-     inkscape:cx="1389.0472"
-     inkscape:cy="863.40985"
+     inkscape:cx="1322.7419"
+     inkscape:cy="864.37076"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
      inkscape:window-x="-9"
@@ -257,7 +257,7 @@
        inkscape:export-filename="..\amzn_rob_logo.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" /></g><g
-     id="g963"
+     id="g895"
      inkscape:export-filename="..\disney_logo.png"
      inkscape:export-xdpi="192"
      inkscape:export-ydpi="192"><g
@@ -265,8 +265,9 @@
        inkscape:export-filename="..\hello_robot_logo.png"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192"
-       transform="translate(-76.560463,158.11512)"><rect
-         style="fill:none;stroke:none;stroke-width:0.545333;stroke-miterlimit:10;stroke-opacity:1"
+       transform="translate(-76.560463,158.11512)"
+       style="fill:#ffffff;fill-opacity:1"><rect
+         style="fill:#ffffff;stroke:none;stroke-width:0.545333;stroke-miterlimit:10;stroke-opacity:1;fill-opacity:1"
          id="rect8241-5-0"
          width="185.20833"
          height="92.604164"
