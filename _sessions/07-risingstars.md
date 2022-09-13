@@ -1,6 +1,6 @@
 ---
 day: 2
-time: 3:00PM
+time: 9:00AM
 name: risingstars
 title: Rising Stars Spotlight Talks
 ---
