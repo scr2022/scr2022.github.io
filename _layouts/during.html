@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <header>
+      <link rel="shortcut icon" href="favicon.ico">
+      {% include nav_during.html %}
+    </header>
+    <main>
+      {% include banner.html %}
+      {% include infoline.html %}
+      {% include about.html %}
+      {% include venue.html %}
+      {% include schedule.html %}
+      {% include posters_guidelines.html %}           
+      {% include workshops_descriptions.html %}
+      {% include speakers_guidelines.html %}
+      {% include organizers.html %}  
+      {% include sponsors.html %}          
+    </main>
+    <footer class="page-footer" style="background-color: {{site.color.primary-dark}}">
+      <div align="center">
+        <a href="https://github.com/pettni/scr_website/">Website layout courtesy of the SCR 2019 committee. </a>
+        <a href="https://www.instagram.com/p/BZJ_o41ndWJ/?igshid=ensb3e6ln54q">Photo credits.</a>
+      </div>
+    </footer>
+    {% include modals.html %}
+    {% include js.html %}
+</body>
+</html>
