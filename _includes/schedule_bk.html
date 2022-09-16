@@ -15,7 +15,7 @@
                       <tr>
                         <th scope="row"><time>{{session.time}}</time></th>
                         <td>
-                        <h5>{{session.title}} (<i>{{session.location}}</i>)</h5>
+                        <h5>{{session.title}}</h5>
                         {% if {{session.subtitle}} != null %}
                             <p><i>{{session.subtitle}}</i></p>
                         {% endif %}
@@ -27,7 +27,6 @@
                   {% endfor %}
                 </tbody>
               </table>
-              <p class="left">Locations: (E6) = Engineering VI, (L) = Luskin, (W) = Westwood</p> 
             </div>
             <div class="col s6 m6 l6 section-gray-body">
               <table class="schedule">
@@ -40,7 +39,7 @@
                       <tr>
                         <th scope="row"><time>{{session.time}}</time></th>
                         <td>
-                        <h5>{{session.title}} (<i>{{session.location}}</i>)</h5>
+                        <h5>{{session.title}}</h5>
                         {% if {{session.subtitle}} != null %}
                             <p><i>{{session.subtitle}}</i></p>
                         {% endif %}
@@ -48,6 +47,7 @@
                       </tr>
                     {% else %}
                     {% endif %}
+
                   {% endfor %}
                 </tbody>
               </table>

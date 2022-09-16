@@ -1,6 +1,7 @@
 ---
 day: 2
-time: 8:00AM
+time: 7:00-8:00AM
 name: checkin_2
-title: Welcoming Remarks
+title: Check-in
+location: L
 ---
