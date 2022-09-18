@@ -16,7 +16,7 @@
                         <th scope="row"><time>{{speaker.time}}</time></th>
                         <td>
                           {% if speaker.affiliation != null %}
-                            <p>{{speaker.name}}, <i>{{speaker.affiliation}}</i></p>
+                            <p><b>{{speaker.name}}</b>, <i>{{speaker.affiliation}}</i></p>
                             <p><i>{{speaker.talk_title}}</i></p>
                           {% else %} 
                             <p>{{speaker.name}}</p>
@@ -40,7 +40,7 @@
                         <th scope="row"><time>{{speaker.time}}</time></th>
                         <td>
                           {% if speaker.affiliation != null %}
-                            <p>{{speaker.name}}, <i>{{speaker.affiliation}}</i></p>
+                          <p><b>{{speaker.name}}</b>, <i>{{speaker.affiliation}}</i></p>
                             <p><i>{{speaker.talk_title}}</i></p>
                           {% else %} 
                             <p>{{speaker.name}}</p>
