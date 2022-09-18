@@ -16,9 +16,9 @@
                         <th scope="row"><time>{{session.time}}</time></th>
                         <td>
                         {% if {{session.link}} != null %}
-                          <h5><a href="{{session.link}}">{{session.title}}</a><sup>{{session.location}}</sup></h5>
+                          <h5><a href={{session.link}}>{{session.title}}</a><sup>{{session.location}}</sup></h5>
                         {% else %}
-                          <h5>.{{session.title}}<sup>{{session.location}}</sup></h5>
+                          <h5>{{session.title}}<sup>{{session.location}}</sup></h5>
                         {% endif %}
 
                         {% if {{session.subtitle}} != null %}
@@ -53,9 +53,9 @@
                         <th scope="row"><time>{{session.time}}</time></th>
                         <td>
                         {% if {{session.link}} != null %}
-                          <h5><a href="{{session.link}}">{{session.title}}</a><sup>{{session.location}}</sup></h5>
+                          <h5><a href={{session.link}}>{{session.title}}</a><sup>{{session.location}}</sup></h5>
                         {% else %}
-                          <h5>.{{session.title}}<sup>{{session.location}}</sup></h5>
+                          <h5>{{session.title}}<sup>{{session.location}}</sup></h5>
                         {% endif %}
 
                         {% if {{session.subtitle}} != null %}
