@@ -11,7 +11,7 @@
                   </tr>
                   {% for speaker in site.invited_speakers %}
 
-                    {% if speaker.category == risingstar %}
+                    {% if speaker.category == 1 %}
                       <tr>
                         <th scope="row"><time>{{speaker.time}}</time></th>
                         <td>
@@ -35,7 +35,7 @@
                   </tr>
                   {% for speaker in site.invited_speakers %}
 
-                    {% if speaker.category == newfaculty %}
+                    {% if speaker.category == 2 %}
                       <tr>
                         <th scope="row"><time>{{speaker.time}}</time></th>
                         <td>

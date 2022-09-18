@@ -5,5 +5,5 @@ title:
 affiliation: UCLA
 link:
 talk_title: Computational Imaging for Fair, Accurate Health Sensing
-category: risingstar
+category: 1
 ---

@@ -5,5 +5,5 @@ title:
 affiliation: Caltech
 link:
 talk_title: Risk-Aware Planning and Control in Extreme Environments
-category: risingstar
+category: 1
 ---

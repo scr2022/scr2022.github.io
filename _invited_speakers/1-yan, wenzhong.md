@@ -5,5 +5,5 @@ title:
 affiliation: UCLA 
 link:
 talk_title: Printable Mechanical Autonomy
-category: risingstar
+category: 1
 ---
