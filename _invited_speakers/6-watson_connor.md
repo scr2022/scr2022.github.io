@@ -1,4 +1,5 @@
 ---
+time: 10:04AM
 name: Connor Watson
 title:
 affiliation: UCSD

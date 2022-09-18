@@ -1,4 +1,5 @@
 ---
+time: 5:04PM
 name: Stefanos Nikolaidis
 title:
 affiliation: USC

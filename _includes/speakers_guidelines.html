@@ -4,6 +4,57 @@
           <h4 class="center-align section-white-header">Speakers</h4>
 
           <div class="row">
+            <div class="col s6 m6 l6 section-white-body">
+              <table class="schedule">
+                  <tr>
+                      <h5 class="center-align"><b>Rising Stars</b></h5>
+                  </tr>
+                  {% for speaker in site.invited_speakers %}
+
+                    {% if speaker.category == risingstar %}
+                      <tr>
+                        <th scope="row"><time>{{speaker.time}}</time></th>
+                        <td>
+                          {% if speaker.affiliation != null %}
+                            <p>{{speaker.name}}, <i>{{speaker.affiliation}}</i></p>
+                            <p><i>{{speaker.talk_title}}</i></p>
+                          {% else %} 
+                            <p>{{speaker.name}}</p>
+                          {% endif %}
+                        </td>
+                      </tr>
+                    {% endif %}
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+            <div class="col s6 m6 l6 section-white-body">
+              <table class="schedule">
+                  <tr>
+                      <h5 class="center-align"><b>New Faculty</b></h5>
+                  </tr>
+                  {% for speaker in site.invited_speakers %}
+
+                    {% if speaker.category == newfaculty %}
+                      <tr>
+                        <th scope="row"><time>{{speaker.time}}</time></th>
+                        <td>
+                          {% if speaker.affiliation != null %}
+                            <p>{{speaker.name}}, <i>{{speaker.affiliation}}</i></p>
+                            <p><i>{{speaker.talk_title}}</i></p>
+                          {% else %} 
+                            <p>{{speaker.name}}</p>
+                          {% endif %}
+                        </td>
+                      </tr>
+                    {% endif %}
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="row">
             <div class="col s12 m10 offset-m1 l10 offset-l1 section-white-body">              
               <p class="left"><b>Rising Stars Guidelines:</b></p>
             </div>

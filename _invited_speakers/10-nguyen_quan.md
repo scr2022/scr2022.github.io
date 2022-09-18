@@ -1,4 +1,5 @@
 ---
+time: 3:00PM
 name: Quan Nguyen
 title:
 affiliation: USC
