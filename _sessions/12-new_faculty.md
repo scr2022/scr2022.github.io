@@ -1,6 +1,6 @@
 ---
 day: 2
-time: 3:00-4:15PM
+time: 3:00-5:15PM
 name: new_faculty 
 title: New Faculty Spotlight Talks
 location: L
