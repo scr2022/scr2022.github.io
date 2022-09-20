@@ -4,6 +4,6 @@ name: Jun Sheng
 title:
 affiliation: UCR
 link:
-talk_title: Towards Meso-Scale Steerable Surgical Robots based on Smart Actuation and Sensing
+talk_title: Mesoscale Steerable Robots for Minimally Invasive Neurosurgery
 category: 2
 ---
