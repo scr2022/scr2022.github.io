@@ -217,6 +217,6 @@
 
 @media only screen and (max-width: 993px) {
   .row .col.m5ths.sm {
-    width: 50%
+    /*width: 50%*/
   }
 }
