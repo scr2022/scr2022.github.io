@@ -7,7 +7,11 @@ baseurl: ''
 conference_title: "Southern California Robotics Symposium"
 conference_title_short: "SCR"
 year: "2022"
+<<<<<<< HEAD
 infoline_text: "We are at capacity for this year, unfortunately walk-ins will not be accommodated"
+=======
+infoline_text: ""
+>>>>>>> a27071d81ea8979e73e5ce7e29d27d74536156fd
 
 # Color settings
 color:
